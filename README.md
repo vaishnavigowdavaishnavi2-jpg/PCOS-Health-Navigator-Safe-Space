@@ -31,11 +31,6 @@ The objective of this project is to create an easy-to-use AI application that pr
 
 This project is for educational and informational purposes only. It does not replace professional medical advice, diagnosis, or treatment.
 
-# My PartyRock Project
-
-PartyRock Project Link:
-https://partyrock.aws/u/Vaishnavi-gowda/qeQxh2-Vi/PCOS-Health-Navigator-Safe-Space
-
 ## 👩‍💻 Author
 
 Vaishnavi Gowda
