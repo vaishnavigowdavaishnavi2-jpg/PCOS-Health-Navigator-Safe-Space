@@ -31,6 +31,11 @@ The objective of this project is to create an easy-to-use AI application that pr
 
 This project is for educational and informational purposes only. It does not replace professional medical advice, diagnosis, or treatment.
 
+# My PartyRock Project
+
+PartyRock Project Link:
+https://your-partyr﻿ock-link-here
+
 ## 👩‍💻 Author
 
 Vaishnavi Gowda
