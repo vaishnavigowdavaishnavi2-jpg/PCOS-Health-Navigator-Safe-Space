@@ -34,7 +34,7 @@ This project is for educational and informational purposes only. It does not rep
 # My PartyRock Project
 
 PartyRock Project Link:
-https://your-partyr﻿ock-link-here
+https://partyrock.aws/u/Vaishnavi-gowda/qeQxh2-Vi/PCOS-Health-Navigator-Safe-Space
 
 ## 👩‍💻 Author
 
